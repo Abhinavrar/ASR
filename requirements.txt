@@ -1,0 +1,16 @@
+# Core ML/DL and Data Handling
+torch>=1.12.0
+numpy
+pandas
+scikit-learn
+
+# Audio and Signal Processing
+librosa
+
+# Visualization and Progress
+matplotlib
+seaborn
+tqdm
+
+# Jupyter Environment
+jupyterlab
